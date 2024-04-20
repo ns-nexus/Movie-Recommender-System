@@ -36,16 +36,23 @@ Utilizing the Streamlit library, we crafted a user-friendly frontend for the rec
 ### Deployment
 The model is deployed online using the Streamlit Community Cloud, providing easy access to users. A deployment link is provided for seamless usage.
 
+<br>
+
 ## Results
 
 #### Desktop View
 <img src="Media/desktop-view.gif" />
+<br>
 
 #### Phone View
-<img src="Media/phone-view.gif" />
+<img src="Media/phone-view.jpg" width="200" height="400"/>
+
+<br>
 
 ## Deployment Link
 #### https://movie-recommender-system-by-neha-sharma.streamlit.app/
+
+<br>
 
 ## How to Use
 
