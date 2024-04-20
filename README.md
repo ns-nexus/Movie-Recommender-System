@@ -38,6 +38,10 @@ The model is deployed online using the Streamlit Community Cloud, providing easy
 
 ## Results
 
+[Demo Video]([Media/desktop-view.mp4)
+
+[Demo Video]([https://github.com/username/repo/raw/branch/media/video.mp4](https://github.com/ns-nexus/Movie-Recommender-System/blob/main/Media/mobile-view.mp4))
+
 
 ## Deployment Link
 #### https://movie-recommender-system-by-neha-sharma.streamlit.app/
