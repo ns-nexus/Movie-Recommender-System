@@ -60,3 +60,7 @@ The model is deployed online using the Streamlit Community Cloud, providing easy
 2. Select a movie from the dropdown menu.
 3. Click on the "Recommend" button.
 4. Enjoy personalized recommendations based on your preferences!
+
+<br>
+
+<code>Neha Sharma</code>
